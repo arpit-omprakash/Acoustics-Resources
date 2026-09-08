@@ -33,7 +33,7 @@ Here are some particularly interesting videos/resources I have found useful acro
 might be of interest to budding bioacousticians and/or computational ecologists:
 - [Sci-kit Learn User Guide](https://scikit-learn.org/stable/user_guide.html) - Probably the best written and easy to understand guide on various algorithms typically used in machine learning and recommendations/best practices for their usage.
 - [Kaggle](https://www.kaggle.com/competitions) - Great website to get started with hands on machine learning projects and competitions that you can participate in. Remember to take it slow and have fun!
-- [3Blue1Brown Series on Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Very interesting video series to delve deeper into how model machine learning algorithms work.
+- [3Blue1Brown Series on Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - Very interesting video series to delve deeper into how modern machine learning algorithms work.
 - [3Blue1Brown Fourier Series Video](https://www.youtube.com/watch?v=r6sGWTCMz2k) - Cool video on Fourier Series - very interesting if you're into signal processing.
 
 ## Public Datasets
